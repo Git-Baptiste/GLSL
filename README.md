@@ -20,5 +20,8 @@ I'll add results of the sahders L'll be creating on this readme, so averyone can
 </br>
 </br>
 
-![image](https://github.com/Git-Baptiste/GLSL/assets/75739697/49d26d68-0c4d-4ad4-9e21-9326154f2c0c)
+<img src="https://github.com/Git-Baptiste/GLSL/assets/75739697/49d26d68-0c4d-4ad4-9e21-9326154f2c0c" width="300" height="300">
+
 > Shader 002
+</br>
+</br>
