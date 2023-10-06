@@ -25,3 +25,17 @@ I'll add results of the sahders L'll be creating on this readme, so averyone can
 > Shader 002
 </br>
 </br>
+
+<img src="https://github.com/Git-Baptiste/GLSL/assets/75739697/e9160ed1-8077-4fa3-9471-d1e93b741a76" width="300" height="300">
+
+> Shader 003
+</br>
+</br>
+
+
+<img src="https://github.com/Git-Baptiste/GLSL/assets/75739697/be2b0189-f253-4efd-9833-d3c149023d39" width="300" height="300">
+
+> Shader 004
+</br>
+</br>
+
